@@ -12,6 +12,7 @@ export const HeroCard = ({
 
   //const heroImageUrl = `/assets/heroes/${id}.jpg`;
  const heroImageUrl=`${process.env.PUBLIC_URL}/assets/heroes/${ id }.jpg`;
+ 
   return (
 
     <>
