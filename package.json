@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": ".",
+  "homepage": "https://github.com/jortegah79/heroesAppReact",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
