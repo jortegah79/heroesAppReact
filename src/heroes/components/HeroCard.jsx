@@ -10,8 +10,8 @@ export const HeroCard = ({
   first_appearance,
   characters }) => {
 
-  const heroImageUrl = `./assets/heroes/${id}.jpg`;
- //const heroImageUrl=`./heroes/${ id }.jpg`;
+  //const heroImageUrl = `./assets/heroes/${id}.jpg`;
+ const heroImageUrl=`https://jortegah79.github.io/heroesAppReact/assets/heroes/${ id }.jpg`;
  
   return (
 
